@@ -1,6 +1,5 @@
-
-![Screenshot from 2024-01-25 17-19-56](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/9c2bbd15-c2d2-40d9-937c-6ef891f0c407)
-![Screenshot from 2024-01-25 17-19-51](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/8ac00f13-11e0-47f2-bb0a-0c9bbfc31be5)
-![Screenshot from 2024-01-25 17-19-38](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/26df87b3-d129-45e6-8491-49c393468943)
-![Screenshot from 2024-01-25 17-18-27](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/021cd950-35fd-403a-9738-0f27042e8bc0)
-![Screenshot from 2024-01-25 17-14-59](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/e0fedf20-50aa-4916-8032-b79570fa6c6b)
+![Screenshot from 2024-01-25 17-14-59](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/1a14917a-a286-4d4a-bba2-24580bb48ce2)
+![Screenshot from 2024-01-25 17-18-27](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/b1cc5b0a-2a57-4041-bcb2-51afa62eed27)
+![Screenshot from 2024-01-25 17-19-38](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/5c53090a-6326-4b23-b8d3-59a829750411)
+![Screenshot from 2024-01-25 17-19-51](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/df998d9e-760f-4fa5-85a4-953ccf1680fe)
+![Screenshot from 2024-01-25 17-19-56](https://github.com/AyushRudra/LangChain-ChatBot/assets/153734147/22a9a99b-98e1-4283-b5ee-49979cf94005)
