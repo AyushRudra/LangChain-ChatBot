@@ -1,0 +1,14 @@
+{
+  "name": "emoji-explainer-with-openai",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "@pinecone-database/pinecone": "^1.1.3",
+    "dotenv": "^16.3.2",
+    "langchain": "^0.0.208",
+    "zlib": "^1.0.5"
+  }
+}

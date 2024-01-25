@@ -1,0 +1,3 @@
+OPENAI_API_KEY=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
+MONGODB_URI=mongodb+srv://ayush:ayush@cluster0.bj7v6l2.mongodb.net
+MONGODB_DATABASE=searchData
