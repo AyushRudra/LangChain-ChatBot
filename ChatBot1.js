@@ -1,3 +1,14 @@
+
+/* 
+
+                        this chatbot Code is with Restriction 
+                            without Memories Context bt Storage use 
+                            Mongodb
+
+
+*/
+
+
 import { MongoClient } from "mongodb";
 import { OpenAI } from "langchain/llms/openai";
 import { PromptTemplate } from "langchain/prompts";
